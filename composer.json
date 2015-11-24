@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Alexboo\\WebSocketHandler\\": "src/"
+            "Alexboo\\RedisQueue\\": "src/"
         }
     }
 }
