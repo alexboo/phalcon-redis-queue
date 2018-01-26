@@ -4,7 +4,7 @@
     "description": "Phalcon Redis queue",
     "keywords": ["phalcon","redis", "queue"],
     "homepage": "https://github.com/alexboo/phalcon-redis-queue",
-    "license": "GPLv2",
+    "license": "LGPL-3.0",
     "authors": [
         {
             "name": "Alexey Bulybin"
